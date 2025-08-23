@@ -3,7 +3,7 @@
 
 ![- 📫 How to reach me **ssimarsingh7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13M8L-p63GHlHO8uPb4XSG-j4qlFxqha1/view?usp=sharing](https://drive.google.com/file/d/13M8L-p63GHlHO8uPb4XSG-j4qlFxqha1/view?usp=sharing) ](/assets/giff.gif)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13M8L-p63GHlHO8uPb4XSG-j4qlFxqha1/view?usp=sharing](https://drive.google.com/file/d/13M8L-p63GHlHO8uPb4XSG-j4qlFxqha1/view?usp=sharing) ](giff.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
