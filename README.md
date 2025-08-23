@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Simar Singh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-![- 📫 How to reach me **ssimarsingh7@gmail.com**
+- 📫 How to reach me **ssimarsingh7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13M8L-p63GHlHO8uPb4XSG-j4qlFxqha1/view?usp=sharing](https://drive.google.com/file/d/13M8L-p63GHlHO8uPb4XSG-j4qlFxqha1/view?usp=sharing) ](giff.gif)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13M8L-p63GHlHO8uPb4XSG-j4qlFxqha1/view?usp=sharing](https://drive.google.com/file/d/13M8L-p63GHlHO8uPb4XSG-j4qlFxqha1/view?usp=sharing) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
